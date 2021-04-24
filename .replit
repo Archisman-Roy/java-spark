@@ -1,0 +1,3 @@
+language = "java10"
+run = ""
+onBoot="chmod +x spark_install.sh;./spark_install.sh"
