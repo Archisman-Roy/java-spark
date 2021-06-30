@@ -1,0 +1,11 @@
+{
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.home": "/usr/lib/jvm/java-11-openjdk-amd64",
+    "maven.terminal.useJavaHome": true
+}
